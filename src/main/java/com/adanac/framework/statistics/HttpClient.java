@@ -30,7 +30,7 @@ import org.slf4j.LoggerFactory;
  * @author adanac
  * @version 1.0
  */
-public class HttpClient {
+public final class HttpClient {
 	private static final Logger logger = LoggerFactory.getLogger(HttpClient.class);
 
 	private static final int HTTP_RESPONSE_CODE_FLAG = 300;
