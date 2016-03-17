@@ -3,7 +3,7 @@ package com.adanac.framework.lang.dto;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.adanac.framework.lang.exception.BaseException;
+import com.adanac.framework.exception.BaseException;
 import com.adanac.framework.lang.util.EventUtils;
 
 /**

@@ -12,7 +12,7 @@ import org.springframework.web.context.request.RequestAttributes;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
-import com.adanac.framework.lang.exception.BaseException;
+import com.adanac.framework.exception.BaseException;
 
 /**
  * 
