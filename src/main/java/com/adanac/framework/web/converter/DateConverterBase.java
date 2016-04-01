@@ -4,6 +4,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
 public class DateConverterBase {
+
 	private String datePattern = "yyyy-MM-dd";
 	private String timePattern = "HH:mm:ss";
 	private DateFormat dateFormat = new SimpleDateFormat(datePattern);

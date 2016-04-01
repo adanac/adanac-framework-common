@@ -10,6 +10,7 @@ import org.apache.commons.lang3.StringUtils;
  * @version 1.0
  */
 public class GETIPUtil {
+
 	/**
 	 * 获取访问者IP
 	 * 

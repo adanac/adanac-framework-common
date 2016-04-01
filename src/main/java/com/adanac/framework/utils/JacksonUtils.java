@@ -27,6 +27,7 @@ import org.slf4j.LoggerFactory;
  * @version 1.0
  */
 public class JacksonUtils {
+
 	/**
 	 * logger
 	 */

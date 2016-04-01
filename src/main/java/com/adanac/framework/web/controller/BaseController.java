@@ -25,6 +25,7 @@ import com.google.gson.GsonBuilder;
  * @version 1.0
  */
 public class BaseController {
+
 	static Logger log = LoggerFactory.getLogger(BaseController.class);
 	public static final String VIEW = "view";
 	public static final String LIST = "list";

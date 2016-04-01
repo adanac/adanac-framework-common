@@ -14,6 +14,7 @@ import java.io.UnsupportedEncodingException;
  * @version 1.0
  */
 public class InPutStreamToStr {
+	
 	/** 
 	    * 利用BufferedReader实现Inputstream转换成String <功能详细描述> 
 	    *  

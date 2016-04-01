@@ -10,6 +10,7 @@ import java.util.List;
  * @version 1.0
  */
 public class Pager<T> implements Serializable {
+
 	/**
 	 * 
 	 */

@@ -15,6 +15,7 @@ import org.slf4j.LoggerFactory;
  * @version 1.0
  */
 public class VersionStatistics {
+
 	private static final Logger logger = LoggerFactory.getLogger(VersionStatistics.class);
 
 	private static Map<String, String> versionMap = new HashMap<String, String>();

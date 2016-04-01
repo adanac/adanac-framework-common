@@ -1,6 +1,6 @@
 package com.adanac.framework.lang.config;
 
-import com.adanac.framework.lang.util.EventUtils;
+import com.adanac.framework.lang.utils.EventUtils;
 
 import ch.qos.logback.core.PropertyDefinerBase;
 

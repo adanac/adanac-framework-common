@@ -19,6 +19,7 @@ import com.adanac.framework.web.security.XSSCheck;
  * @version 1.0
  */
 public class ParamsUtil {
+
 	private static final String PAGE = "page";
 	private static final String PAGESIZE = "pageSize";
 	private static final String MSG = "msg";

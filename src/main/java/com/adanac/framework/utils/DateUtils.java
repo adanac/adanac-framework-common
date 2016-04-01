@@ -13,6 +13,7 @@ import org.apache.commons.lang3.StringUtils;
  * @version 1.0
  */
 public class DateUtils {
+
 	/**
 	 * 默认时间格式
 	 */

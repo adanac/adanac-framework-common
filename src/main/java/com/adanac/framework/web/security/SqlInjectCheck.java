@@ -7,6 +7,7 @@ package com.adanac.framework.web.security;
  * @version 1.0
  */
 public class SqlInjectCheck {
+
 	public String check(String oldValue) {
 		if (oldValue != null) {
 			String ret = oldValue;

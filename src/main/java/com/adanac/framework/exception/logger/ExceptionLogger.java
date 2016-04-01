@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
  * @version 1.0
  */
 public class ExceptionLogger {
+
 	private static final Logger logger = LoggerFactory.getLogger("com_adanac_exception_log");
 
 	public static void log(String logStr) {

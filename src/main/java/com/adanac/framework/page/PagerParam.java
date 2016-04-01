@@ -9,6 +9,7 @@ import java.io.Serializable;
  * @version 1.0
  */
 public class PagerParam implements Serializable {
+
 	/**
 	 * 
 	 */

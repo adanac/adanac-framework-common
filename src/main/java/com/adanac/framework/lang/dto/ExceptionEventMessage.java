@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.adanac.framework.exception.BaseException;
-import com.adanac.framework.lang.util.EventUtils;
+import com.adanac.framework.lang.utils.EventUtils;
 
 /**
  * 异常事件

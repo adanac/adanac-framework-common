@@ -6,6 +6,7 @@ package com.adanac.framework.utils;
  * @version 1.0
  */
 public class ObjectUtil {
+
 	/**
 	 * 判断是否数组
 	 * @param 判断的对象

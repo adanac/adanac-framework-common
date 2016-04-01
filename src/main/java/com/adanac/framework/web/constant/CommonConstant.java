@@ -6,6 +6,7 @@ package com.adanac.framework.web.constant;
  * @version 1.0
  */
 public class CommonConstant {
+
 	/**
 	 * 是否对请求的参数进行有安全检查，并进行转码
 	 */

@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletRequest;
  * @version 1.0
  */
 public class XSSCheck {
+
 	public String getParameter(HttpServletRequest request, String paramName) {
 		if (request == null || paramName == null) {
 			return null;
